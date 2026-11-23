@@ -1,0 +1,55 @@
+.img1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin: 0px 80px;
+}
+
+.img2 {
+    width: 1450px;
+    height: 200px;
+}
+
+body {
+    margin: 10px 50px;
+    background-color: #111C30;
+}
+
+li {
+    font-size: 50px;
+}
+
+.nome {
+    font-size: 50px;
+    text-align: center;
+}
+
+.desc
+
+.div1 {
+    display: flex;
+    width: 350px;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.div2 {
+    display: flex;
+    margin: 0px 20px;
+    flex-direction: column;
+}
+
+.centraliza {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+.footer {
+    border: 1px solid black;
+    border-radius: 10px;
+}
